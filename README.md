@@ -1,6 +1,8 @@
 ICP(Iterative Closest Point) matching
 =====
 
+![screenshot](screenshot.png "screenshot")
+
 Requirements
 -----
 
@@ -15,5 +17,3 @@ Execution
 ```
 python icp_matching.py out01.csv out02.csv
 ```
-
-
